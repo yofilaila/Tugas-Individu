@@ -1,2 +1,4 @@
 # Tugas-Individu-Pemweb
-Nama : Yofi Lailatul Fatma (18051204039)
+Nama : Yofi Lailatul Fatma 
+NIM : 18051204039
+Kelas : TI 2018 A
